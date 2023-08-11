@@ -1,4 +1,4 @@
-# open-memorial
+# Open Memorial
 Open Memorial is an open source, federated platform for sharing memories about our loved ones.
 
 Key features to build:
